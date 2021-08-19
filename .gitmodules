@@ -1,0 +1,3 @@
+[submodule "resk-individual"]
+	path = resk-individual
+	url = git@github.com:gzl-tommy/resk-individual.git
