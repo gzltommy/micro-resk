@@ -1,3 +1,15 @@
 [submodule "resk-individual"]
 	path = resk-individual
 	url = git@github.com:gzl-tommy/resk-individual.git
+[submodule "resk-micro/account"]
+	path = resk-micro/account
+	url = git@github.com:gzl-tommy/account.git
+[submodule "resk-micro/infra"]
+	path = resk-micro/infra
+	url = git@github.com:gzl-tommy/infra.git
+[submodule "resk-micro/resk"]
+	path = resk-micro/resk
+	url = git@github.com:gzl-tommy/resk.git
+[submodule "resk-micro/resk-ui"]
+	path = resk-micro/resk-ui
+	url = git@github.com:gzl-tommy/resk-ui.git
